@@ -6,6 +6,12 @@ Um programa simples em Java desenvolvido como desafio da trilha Java Básico da 
 
 Este projeto consiste em uma classe Java chamada `ContaTerminal` que solicita o número da conta, número da agência, nome do cliente e saldo inicial ao usuário. Em seguida, exibe uma mensagem de boas-vindas contendo essas informações.
 
+## Visualize o projeto Conta Banco 
+
+1- Navegue até o diretório do projeto em `conta-banco`.
+
+2- Acesse o arquivo `src` e logo em seguida estará disponível o código-fonte do projeto em `ContaTerminal.java`.
+
 ## Stacks utilizadas
 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
